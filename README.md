@@ -1,5 +1,5 @@
 # anomaly-detection-mvtec
 
-해군 교관양성 교육 자료
+Materials for the Navy Instructor Training Program
 
 anomlay detection mvtec model -  AutoEncoder 
